@@ -26,8 +26,9 @@
     "next-env.d.ts",
     ".next/types/**/*.ts",
     "**/*.ts",
-    "**/*.tsx"
-  ],
+    "**/*.tsx",
+    "src/**/*"
+, "app/abogados-accidente/page.js"  ],
   "exclude": [
     "node_modules"
   ]
